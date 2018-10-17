@@ -1,5 +1,5 @@
 # hello-world
-My first git-hib repository
+My first git-hub repository
 
 Hello World,
 
